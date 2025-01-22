@@ -1,0 +1,95 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+
+.logo img {
+    height: 150px;
+    padding: 0 50px;
+    align-items: center;
+}
+
+.nav-item {
+    margin-right: 30px;
+    font-weight: 700;
+}
+
+.nav-link:hover {
+    color: #f9d43f;
+}
+
+.btn {
+    padding: 9px 40px;
+    border: 0;
+    font-weight: bolder;
+    background-color: #f9d43f;
+    color: white;
+    cursor: pointer;     
+}
+
+.slide1 {
+    background-image: url(pics/cardimg.jpg);
+    background-size: cover;
+    height: 85vh;
+} 
+
+.imgstyle img{
+    border: 0px;
+    border-radius: 60px 0px 60px 0px;
+}
+
+
+.btn-brand {
+    background-color: #f9d43f;
+    color: black;
+    border-color: #f9d43f;
+}
+
+.btn-brand:hover{
+    background-color: #f9d43f;
+}
+.middle{
+    /*background-color: #f7e8af;*/
+    background-image: url(pics/cardimg.jpg);
+    background-size: cover;
+}
+
+.links{
+    text-decoration: none;
+}
+
+.footer{
+    background-color: rgb(97, 94, 94);
+    color: white;
+}
+
+.big{
+    line-height: 1.9;
+}
+
+.back {
+    background-image: url(pics/Time_of_cutting_sugar_cane2.jpg);
+    background-size: cover;
+    height: 30vh;
+}
+
+.third{
+    background-image: url(pics/Time_of_cutting_sugar_cane2.jpg);
+    background-size: cover;
+    height: 30vh;
+}
+
+.forth{
+    background-image: url(pics/Time_of_cutting_sugar_cane2.jpg);
+    background-size: cover;
+    height: 30vh;
+} 
+
+.footimg img{
+    height: 150px;
+    padding: 0 50px;
+    align-items: center;
+}
+
